@@ -1,0 +1,6 @@
+node_modules/
+downloads/
+.env
+*.log
+.pm2/
+
